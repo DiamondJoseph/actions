@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: 2.6.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: joseph.ware@diamond.ac.uk
+author_name: Joseph Ware
+description: 'Repository for testing out CI workflows '
+distribution_name: actions
+docker: true
+docs_type: README
+git_platform: github.com
+github_org: DiamondJoseph
+package_name: actions
+pypi: false
+repo_name: actions
+type_checker: pyright
